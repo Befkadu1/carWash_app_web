@@ -1,0 +1,15 @@
+{
+  "name": "car_wash_server_connection",
+  "version": "1.0.0",
+  "description": "React app server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Befkadu Degefa",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^16.6.2",
+    "mysql": "^2.15.0"
+  }
+}
